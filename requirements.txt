@@ -1,3 +1,9 @@
 mcp
 python-dotenv
 requests
+
+# Client environment dependencies
+langchain
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
